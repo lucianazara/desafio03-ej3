@@ -2,4 +2,4 @@
 
 -Github: https://github.com/lucianazara/desafio03-ej3.git
 
--Netlify: 
+-Netlify: https://desafio03ej3.netlify.app/
